@@ -1,61 +1,61 @@
-# 👋 Hi, I'm Manan Modi
+# Hi there, I'm Manan Modi 👋
 
-**GitHub:** [@ModiManan808](https://github.com/ModiManan808) | **LinkedIn:** [manan-modi-06ba18336](https://linkedin.com/in/manan-modi-06ba18336)
+**Cybersecurity Student | Network Security | Cloud Security**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/manan-modi-06ba18336)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/ModiManan808)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:modimanan408@gmail.com)
 
-## 🚀 About Me
-
-I'm a developer passionate about **cloud security**, **infrastructure automation**, and **AI-powered applications**. I enjoy building tools that solve real-world problems — from cloud vulnerability scanners to face recognition systems.
-
----
-
-## 🛠️ Tech Stack
-
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python, C#, JavaScript |
-| **Cloud & DevOps** | AWS, Kubernetes (k8s) |
-| **AI / ML** | Face Detection & Recognition, AI Resume Analysis |
-| **Security** | Vulnerability Scanning, HoneyPots |
+I am a Cybersecurity-focused Computer Science student currently pursuing an Integrated B.Tech - M.Tech in CSE (Cyber Security) at the National Forensic Sciences University (NFSU). I have hands-on experience building encryption simulators, desktop applications, and security-oriented automation tools. 
 
 ---
 
-## 📌 Pinned Projects
+### 🛠️ Skills & Technologies
 
-### 🔐 [Cloud-Vulnerability-Scanner-on-AWS](https://github.com/ModiManan808/Cloud-Vulnerability-Scanner-on-AWS)
-A Python-based tool to scan and identify vulnerabilities in AWS cloud infrastructure. Helps teams proactively detect misconfigurations and security gaps.
-
-### 🍯 [HoneyPot](https://github.com/ModiManan808/HoneyPot)
-A Python-powered honeypot system to detect and log unauthorized access attempts — great for threat intelligence and learning attacker behavior.
-
-### ☸️ [ops-infrastructure-k8s](https://github.com/ModiManan808/ops-infrastructure-k8s)
-Kubernetes-based infrastructure setup for operational workloads. Focuses on scalability and DevOps best practices.
-
-### 🖥️ [ADBApp](https://github.com/ModiManan808/ADBApp)
-A C# application built around Android Debug Bridge (ADB), enabling device management and automation workflows.
-
-### 🤖 [AiResumeAnalyzer](https://github.com/ModiManan808/AiResumeAnalyzer)
-A JavaScript-based AI tool that analyzes resumes, helping job seekers get actionable feedback and improve their profiles.
-
-### 👁️ [FaceDetectionAndRecognition](https://github.com/ModiManan808/FaceDetectionAndRecognition)
-A C# application implementing real-time face detection and recognition capabilities using computer vision techniques.
+* **Security & Networking:** Network Fundamentals, TCP/IP, OS (Linux & Windows), Log Analysis, Threat Monitoring, Incident Analysis, Vulnerability Assessment, Risk Identification, OWASP Top 10.
+* **Tools & Cloud:** AWS (EC2, S3, IAM, Lambda), Kubernetes, Git, Wireshark, Nmap, Ghidra.
+* **Programming:** Python (Scripting), Java, C, C++, SQL.
+* **Core Competencies:** Information Security Research, Analytical Thinking, Secure System Practice.
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-![ModiManan808's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ModiManan808&show_icons=true&theme=tokyonight&hide_border=true)
+**Automated AWS Security Tool**
+* Built an AWS security assessment tool utilizing Python and Boto3.
+* Automated the detection of misconfigurations and security gaps across EC2, S3, IAM, and Lambda.
+* Compiled detailed assessment reports to strengthen overall information security posture and track remediation progress.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ModiManan808&layout=compact&theme=tokyonight&hide_border=true)
+**Network Honeypot Deployment**
+* Deployed a honeypot on Linux to actively monitor, capture, and log unauthorized access attempts on exposed network services.
+* Analyzed intrusion logs to identify attack patterns and produced concise threat intelligence reports for team review.
+
+**DevOps / SRE Infrastructure Setup** *(Ongoing)*
+* Hands-on infrastructure project focused on deploying Kubernetes clusters.
+* Implementing and learning core containerization, networking, and cloud security practices.
 
 ---
 
-## 🔗 Connect with Me
+### 💼 Experience
 
-- 💼 [LinkedIn](https://linkedin.com/in/manan-modi-06ba18336)
-- 🐙 [GitHub](https://github.com/ModiManan808)
+**Part-time Cyber Security Faculty** | *CodeIn YourSelf, Surat* (Apr 2025 – Jun 2025)
+* Delivered hands-on cybersecurity training sessions covering networking, vulnerability assessments, and security policies.
+* Guided students in understanding core security concepts and identifying potential digital risks.
 
 ---
 
-*"Building secure, scalable, and intelligent systems — one commit at a time."*
+### 🎓 Education
+
+**National Forensic Sciences University** (2023 – 2028)
+* Integrated B.Tech - M.Tech, CSE (Cyber Security)
+* GPA: 8.68 
+
+---
+
+### 🏆 Certifications
+
+* ISO/IEC 27001:2022 Lead Auditor
+* Fortinet Certified Associate – Cybersecurity
+* Fortinet Certified Fundamentals – Cybersecurity
+* AWS Academy Graduate – Cloud Security Foundations
+* TryHackMe – Pre Security
