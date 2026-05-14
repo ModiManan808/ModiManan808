@@ -27,29 +27,3 @@ I am a Cybersecurity-focused Computer Science student currently pursuing an Inte
 * **[AiResumeAnalyzer](https://github.com/ModiManan808/AiResumeAnalyzer)** *JavaScript* | AI-driven application designed to analyze and extract data from resumes.
 * **[FaceDetectionAndRecognition](https://github.com/ModiManan808/FaceDetectionAndRecognition)** *C#* | Application built for detecting and recognizing facial features.
 * **[ADBApp](https://github.com/ModiManan808/ADBApp)** *C#* | Custom application development utilizing C#.
-
----
-
-### 💼 Experience
-
-**Part-time Cyber Security Faculty** | *CodeIn YourSelf, Surat* (Apr 2025 – Jun 2025)
-* Delivered hands-on cybersecurity training sessions covering networking, vulnerability assessments, and security policies.
-* Guided students in understanding core security concepts and identifying potential digital risks.
-
----
-
-### 🎓 Education
-
-**National Forensic Sciences University** (2023 – 2028)
-* Integrated B.Tech - M.Tech, CSE (Cyber Security)
-* GPA: 8.68 
-
----
-
-### 🏆 Certifications
-
-* ISO/IEC 27001:2022 Lead Auditor
-* Fortinet Certified Associate – Cybersecurity
-* Fortinet Certified Fundamentals – Cybersecurity
-* AWS Academy Graduate – Cloud Security Foundations
-* TryHackMe – Pre Security
