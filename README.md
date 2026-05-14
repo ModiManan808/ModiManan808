@@ -14,25 +14,19 @@ I am a Cybersecurity-focused Computer Science student currently pursuing an Inte
 
 * **Security & Networking:** Network Fundamentals, TCP/IP, OS (Linux & Windows), Log Analysis, Threat Monitoring, Incident Analysis, Vulnerability Assessment, Risk Identification, OWASP Top 10.
 * **Tools & Cloud:** AWS (EC2, S3, IAM, Lambda), Kubernetes, Git, Wireshark, Nmap, Ghidra.
-* **Programming:** Python (Scripting), Java, C, C++, SQL.
+* **Programming:** Python (Scripting), Java, C#, JavaScript, C, C++, SQL.
 * **Core Competencies:** Information Security Research, Analytical Thinking, Secure System Practice.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Pinned GitHub Repositories
 
-**Automated AWS Security Tool**
-* Built an AWS security assessment tool utilizing Python and Boto3.
-* Automated the detection of misconfigurations and security gaps across EC2, S3, IAM, and Lambda.
-* Compiled detailed assessment reports to strengthen overall information security posture and track remediation progress.
-
-**Network Honeypot Deployment**
-* Deployed a honeypot on Linux to actively monitor, capture, and log unauthorized access attempts on exposed network services.
-* Analyzed intrusion logs to identify attack patterns and produced concise threat intelligence reports for team review.
-
-**DevOps / SRE Infrastructure Setup** *(Ongoing)*
-* Hands-on infrastructure project focused on deploying Kubernetes clusters.
-* Implementing and learning core containerization, networking, and cloud security practices.
+* **[Automated AWS Security Tool](https://github.com/ModiManan808/Cloud-Vulnerability-Scanner-on-AWS)** *Python* | Security assessment tool utilizing Boto3 to automate the detection of misconfigurations across EC2, S3, IAM, and Lambda. 
+* **[HoneyPot](https://github.com/ModiManan808/HoneyPot)** *Python* | A basic honeypot deployed on Linux to actively monitor, capture, and log unauthorized network access attempts.
+* **[ops-infrastructure-k8s](https://github.com/ModiManan808/ops-infrastructure-k8s)** *DevOps* | Hands-on infrastructure project focused on deploying and managing Kubernetes clusters.
+* **[AiResumeAnalyzer](https://github.com/ModiManan808/AiResumeAnalyzer)** *JavaScript* | AI-driven application designed to analyze and extract data from resumes.
+* **[FaceDetectionAndRecognition](https://github.com/ModiManan808/FaceDetectionAndRecognition)** *C#* | Application built for detecting and recognizing facial features.
+* **[ADBApp](https://github.com/ModiManan808/ADBApp)** *C#* | Custom application development utilizing C#.
 
 ---
 
