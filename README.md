@@ -23,12 +23,6 @@ rank       : TryHackMe top 2% | Adani OT Hackathon #4 (CTF)
 manan@nfsu:~$ _
 ```
 
-<div align="center">
-
-[![Interactive Terminal](https://img.shields.io/badge/%3E_open_interactive_terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF41)](https://claude.ai/artifact/Rj5pjKaNaXEo6Zk4kfGREL)
-
-</div>
-
 ### also, when I'm not hacking...
 
 <div align="center">
@@ -50,6 +44,19 @@ manan@nfsu:~$ _
 <br/>
 
 <img src="https://skillicons.dev/icons?i=linux,py,c,cpp,java,aws,git,js,ts,react&theme=dark" />
+
+<br/><br/>
+
+### `> ls vapt_toolkit/`
+
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
 
 </div>
 
