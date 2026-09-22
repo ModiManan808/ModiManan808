@@ -16,16 +16,38 @@ manan@nfsu:~$ cat identity.txt
 --------------------------------------------------
 name       : Manan Modi
 role       : cybersecurity student @ NFSU, Surat
-focus      : VAPT, red teaming, CTF
+focus      : VAPT, red teaming, network forensics
 current_op : sharpening offensive security skills through CTFs
-rank       : TryHackMe top 2% | Adani OT CTF #4 (CTF)
+rank       : TryHackMe top 2% | Adani OT Hackathon #4 (CTF)
 --------------------------------------------------
 manan@nfsu:~$ _
 ```
 
 <div align="center">
 
-### `> ls arsenal/`
+[![Interactive Terminal](https://img.shields.io/badge/%3E_open_interactive_terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF41)](https://claude.ai/artifact/Rj5pjKaNaXEo6Zk4kfGREL)
+
+</div>
+
+### also, when I'm not hacking...
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ModiManan808/ModiManan808/main/assets/itachi.jpg" width="260"/>
+
+![Naruto](https://img.shields.io/badge/🍥_naruto-believe_it-FF6B00?style=for-the-badge&labelColor=000000)
+![Haikyuu](https://img.shields.io/badge/🏐_haikyuu-still_flying-FF9F1C?style=for-the-badge&labelColor=000000)
+![Pokemon](https://img.shields.io/badge/⚡_pokemon-gotta_catch_'em_all-FFCB05?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=currently+rewatching+haikyuu+for+the+5th+time...;still+arguing+naruto+vs+sasuke+with+friends;pikachu+is+objectively+the+goat" alt="anime-typing"/>
+</div>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=linux,py,c,cpp,java,aws,git,js,ts,react&theme=dark" />
 
