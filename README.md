@@ -38,7 +38,7 @@ manan@nfsu:~$ _
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=currently+rewatching+haikyuu+for+the+5th+time...;still+arguing+naruto+vs+sasuke+with+friends;pikachu+is+objectively+the+goat" alt="anime-typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=currently+rewatching+haikyuu+for+the+3rd+time...;still+arguing+naruto+vs+sasuke+with+friends;pikachu+is+objectively+the+goat" alt="anime-typing"/>
 </div>
 
 <br/>
