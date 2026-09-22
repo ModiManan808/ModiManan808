@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1B0D&height=180&section=header&text=root@manan:~%23&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=access%20granted&descAlignY=65&descSize=15&descColor=00FF41" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;manan_modi+%E2%80%94+cybersecurity+researcher;%3E+cat+status.log;chasing+a+kernel+rootkit+with+eBPF...;%3E+ctf+--join;connection+established." alt="typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;manan_modi+%E2%80%94+cybersecurity+researcher;%3E+cat+status.log;focused+on+VAPT+and+red+teaming;%3E+ctf+--join;connection+established." alt="typing-svg"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ModiManan808&color=00FF41&style=flat-square&label=SCANS)
 ![Visitors](https://img.shields.io/badge/status-online-00FF41?style=flat-square&labelColor=000000)
@@ -16,9 +16,9 @@ manan@nfsu:~$ cat identity.txt
 --------------------------------------------------
 name       : Manan Modi
 role       : cybersecurity student @ NFSU, Surat
-focus      : network forensics, kernel-level threats, CTF
-current_op : instrumenting a linux rootkit with eBPF
-rank       : TryHackMe top 2% | Adani OT Hackathon #4 (CTF)
+focus      : VAPT, red teaming, CTF
+current_op : sharpening offensive security skills through CTFs
+rank       : TryHackMe top 2% | Adani OT CTF #4 (CTF)
 --------------------------------------------------
 manan@nfsu:~$ _
 ```
